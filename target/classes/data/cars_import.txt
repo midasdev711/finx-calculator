@@ -1,0 +1,5 @@
+Ford,F-150,XLT SuperCrew
+Mazda,3,BM-Series;BN-Series
+GM,Sierra 1500,5.3 XFE
+Dodge,Charger,LX;LD
+Honda,Civic,Type R;IMA Hybrid
